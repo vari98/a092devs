@@ -1,21 +1,20 @@
-<h1 align="center">Hi 👋, I'm Arsalan</h1>
+<h1 align="center">Hi there, I'm Arsalan</h1>
 <h3 align="center">A beginner/noob</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a092devs&label=Profile%20views&color=0e75b6&style=flat" alt="a092devs" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a092devs" alt="a092devs" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/a092devs" target="blank"><img src="https://img.shields.io/twitter/follow/a092devs?logo=twitter&style=for-the-badge" alt="a092devs" /></a> </p>
 
-- 🌱 I’m currently learning **pandas, NumPy and Web Development**
+- 🌱 I’m currently learning **Pandas, NumPy and Web Development**
 
 - 💬 Ask me about **nothing**
 
-- 📫 How to reach me **arsalanakhtar0@gmail.com**
+- 📫 How to reach me: **arsalanakhtar0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/a092devs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="a092devs" height="30" width="40" /></a>
+<a href="https://t.me/a092devs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="a092devs" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
