@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/a092devs" target="blank"><img src="https://img.shields.io/twitter/follow/a092devs?logo=twitter&style=for-the-badge" alt="a092devs" /></a> </p>
 
-- 🌱 I’m currently learning **Pandas, NumPy and Web Development**
+- 🌱 I’m currently expermenting with Python.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
